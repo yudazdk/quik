@@ -1,0 +1,7 @@
+export const FETCH_DATA = 'FETCH_DATA';
+export const FETCH_DATA_START = 'FETCH_DATA_START';
+export const FETCH_DATA_SUCCESS = 'FETCH_DATA_SUCCESS';
+export const FETCH_DATA_FAILED = 'FETCH_DATA_FAILED';
+
+export const ADD_ITEM = 'ADD_ITEM';
+export const REMOVE_ITEM = 'REMOVE_ITEM';

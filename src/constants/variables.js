@@ -1,0 +1,1 @@
+export const placeholder = 'https://3.bp.blogspot.com/-O2xQgV0u-v4/Uhtm4WaoBnI/AAAAAAAAHFM/sIPySvkwTFA/s1600/placeholder-product-image-large.png';
